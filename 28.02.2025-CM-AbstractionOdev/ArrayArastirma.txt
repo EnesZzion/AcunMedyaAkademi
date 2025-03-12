@@ -1,0 +1,13 @@
+Bu sýnýf, farklý veri türlerinde diziler oluþturmak, iþlemek ve yönetmek 
+için bir dizi statik yöntem ve özellik saðlar.
+Dizilerle çalýþýrken iþlerinizi kolaylaþtýran güçlü araçlardýr.
+Array Sýnýfýnýn Sunduðu Bazý Özellikler:
+1. Array.Sort()------Sýralama(Sorting): Bir dizideki elemanlar küçükten büyüðe veya büyükten küçüðe sýralanabilir.
+
+2. Array.BinarySearch()-------Arama (Searching): Bir dizide belirli bir eleman aranabilir.
+
+3. Array.Copy()-------Kopyalama (Copying): Bir dizinin içeriði baþka bir diziye kopyalanabilir.
+
+4. Array.Reverse()-------Ters Çevirme (Reversing): Dizinin elemanlarý ters çevrilebilir.
+
+5. Array.Resize()------Oluþturma ve Doldurma: Diziler oluþturulabilir ve içleri belirli deðerlerle doldurulabilir.
