@@ -1,0 +1,15 @@
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\bin\Debug\net8.0\Loop&ConditionAssignment-CM.exe
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\bin\Debug\net8.0\Loop&ConditionAssignment-CM.deps.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\bin\Debug\net8.0\Loop&ConditionAssignment-CM.runtimeconfig.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\bin\Debug\net8.0\Loop&ConditionAssignment-CM.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\bin\Debug\net8.0\Loop&ConditionAssignment-CM.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.AssemblyInfoInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.AssemblyInfo.cs
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.csproj.CoreCompileInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.sourcelink.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\refint\Loop&ConditionAssignment-CM.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\Loop&ConditionAssignment-CM.genruntimeconfig.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\Loop&ConditionAssignment-CM\obj\Debug\net8.0\ref\Loop&ConditionAssignment-CM.dll
