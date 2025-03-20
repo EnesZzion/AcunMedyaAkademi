@@ -1,0 +1,23 @@
+﻿C# Erişim Belirleyicileri (Access Modifiers)
+Erişim belirleyicileri, bir sınıfın veya üyenin (değişken, metot vb.) nereden erişilebileceğini kontrol eder.
+
+1. Public (Genel Erişim)
+Her yerden erişilebilir.
+Gerçek Hayattan Örnek: Bir şirketin web sitesindeki herkesin erişebildiği iletişim bilgileri.
+
+2. Private (Özel Erişim)
+Yalnızca tanımlandığı sınıf içinde erişilebilir.
+Gerçek Hayattan Örnek: Bir kişinin banka şifresi, sadece kişi tarafından görülebilir.
+
+3. Protected (Korunan Erişim)
+Aynı sınıfta ve ondan türeyen alt sınıflarda erişilebilir.
+Gerçek Hayattan Örnek: Ailede kullanılan özel bir şifre, sadece aile bireyleri erişebilir.
+
+4. Internal (Dahili Erişim)
+Sadece aynı projedeki sınıflar erişebilir.
+Gerçek Hayattan Örnek: Bir binada bulunan şifre sadece binada yaşayanlar erişebilir.
+
+OOP’deki Rolü
+Veriler yetkisiz erişime karşı korunur.
+Kod okunaklı ve güvenli hale gelir.
+Modülerlik ve genişletilebilirlik sağlanır.
