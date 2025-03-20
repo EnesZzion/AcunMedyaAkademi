@@ -1,0 +1,29 @@
+﻿Genişletilebilirlik, bir yazılım sisteminin temel yapısından ödün vermeden yeni işlevleri, 
+özellikleri ve değişiklikleri barındırabilme yeteneğidir. 
+Mevcut sistemin işlemlerinde önemli değişiklikler olmadan yeni özelliklerin veya işlevlerin eklenmesini sağlamaya odaklanır. 
+Bu ilke gelecekteki değişiklikleri teşvik eder ve ihtiyaç duyuldukça sisteme sürekli eklemelere izin verir.
+ 
+S - Single Responsibility Principle (Tek Sorumluluk İlkesi)
+Bir sınıf yalnızca bir amaca hizmet etmeli ve tek bir sorumluluğu olmalıdır.
+Yanlış Kullanım: Bir sınıfın hem veri tabanı işlemlerini hem de iş mantığını yönetmesi.
+Doğru Kullanım: İş mantığını ayrı bir sınıfa, veri tabanı işlemlerini başka bir sınıfa yerleştirmek.
+
+O - Open/Closed Principle (Açık/Kapalı İlkesi)
+Bir sınıf genişletilmeye açık, ancak değiştirilmeye kapalı olmalıdır.
+Yanlış Kullanım: Yeni bir özellik eklemek için mevcut kodları değiştirmek.
+Doğru Kullanım: Yeni özellikleri eklemek için mevcut kodu değiştirmek yerine yeni sınıflar veya arayüzler eklemek.
+
+L - Liskov Substitution Principle (Liskov'un Yerine Koyma İlkesi)
+Bir alt sınıf, üst sınıfın yerine sorunsuzca geçebilmelidir.
+Yanlış Kullanım: Bir alt sınıf, üst sınıfın bazı metodlarını düzgün çalıştırmıyorsa.
+Doğru Kullanım: Alt sınıf, üst sınıfın tüm işlevlerini eksiksiz desteklemelidir.
+
+I - Interface Segregation Principle (Arayüz Ayrımı İlkesi)
+Bir arayüz, istemcilerin kullanmayacağı metodları içermemelidir.
+Yanlış Kullanım: Bir sınıfın, ihtiyacı olmayan metodları içeren büyük bir arayüzü implemente etmesi.
+Doğru Kullanım: Küçük ve spesifik arayüzler kullanarak her sınıfın ihtiyacı kadar metodu implemente etmesi.
+
+D - Dependency Inversion Principle (Bağımlılığı Ters Çevirme İlkesi)
+Yüksek seviyeli modüller, düşük seviyeli modüllere doğrudan bağımlı olmamalıdır. Bunun yerine soyutlamalar kullanılmalıdır.
+Yanlış Kullanım: Bir sınıfın doğrudan başka bir sınıfa bağımlı olması.
+Doğru Kullanım: Bağımlılığı arayüzler veya soyut sınıflar üzerinden sağlamak.
