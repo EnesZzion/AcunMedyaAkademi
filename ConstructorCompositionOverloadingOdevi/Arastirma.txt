@@ -1,0 +1,19 @@
+﻿------------------------------------------------------------------------------------------------------------------------------
+- C#’ta Garbage Collector Nedir?
+
+Bellek yönetimini otomatik olarak gerçekleştiren bir mekanizmadır. Kullanılmayan ve erişilemeyen nesneleri belirleyerek, 
+belleği serbest bırakır ve uygulamanın daha verimli çalışmasını sağlar.
+Programın çökmesini önler, çünkü bellek sızıntılarını (Memory Leak) minimize eder.
+Performansı artırır, gereksiz nesneleri temizleyerek bellek kullanımını optimize eder.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Generic Class’lar ve Generic Method’lar (Boxing & Unboxing) ?
+
+Generic sınıflar ve metotlar, kod tekrarını önleyerek esnek ve güvenli bir yapı sunar.
+Boxing & Unboxing işlemleri Heap & Stack arasında gereksiz veri taşıma yaptığından performansı düşürür.
+Generic yapılar, Boxing & Unboxing’i önleyerek bellek yönetimini optimize eder ve hız kazandırır.
+Generic Metotlar, tek bir metot yazarak tüm veri tipleriyle çalışmayı mümkün kılar.
+C#’ta yüksek performanslı uygulamalar geliştirmek için Generic yapıların kullanılması önerilir.
+
+------------------------------------------------------------------------------------------------------------------------------
