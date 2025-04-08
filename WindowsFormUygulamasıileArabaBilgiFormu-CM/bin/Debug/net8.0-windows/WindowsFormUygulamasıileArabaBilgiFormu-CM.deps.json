@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WindowsFormUygulamasıileArabaBilgiFormu-CM/1.0.0": {
+        "runtime": {
+          "WindowsFormUygulamasıileArabaBilgiFormu-CM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormUygulamasıileArabaBilgiFormu-CM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
