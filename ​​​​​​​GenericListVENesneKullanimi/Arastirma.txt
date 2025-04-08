@@ -1,0 +1,8 @@
+﻿Görsel programlama, C# dilinde genellikle Windows Forms (WinForms), WPF (Windows Presentation Foundation) 
+veya Unity gibi araçlar aracılığıyla gerçekleştirilir. Bu sistemlerde, 
+kullanıcı arayüzü (UI) öğeleri görsel olarak yerleştirilir ve olaylara (event) bağlı C# kodları yazılarak 
+uygulamanın mantığı oluşturulur
+
+C#’ta görsel programlama genellikle kullanıcı arayüzü olan masaüstü programları geliştirmek için kullanılır.
+
+Metin tabanlı programlama ise komut satırı üzerinden çalışan daha sade uygulamalarda tercih edilir.

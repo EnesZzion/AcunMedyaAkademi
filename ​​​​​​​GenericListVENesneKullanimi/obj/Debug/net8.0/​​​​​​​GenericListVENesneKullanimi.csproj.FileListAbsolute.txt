@@ -1,0 +1,15 @@
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\bin\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.exe
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\bin\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.deps.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\bin\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.runtimeconfig.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\bin\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\bin\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.AssemblyInfoInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.AssemblyInfo.cs
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.csproj.CoreCompileInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.sourcelink.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\refint\​​​​​​​GenericListVENesneKullanimi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\​​​​​​​GenericListVENesneKullanimi.genruntimeconfig.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\​​​​​​​GenericListVENesneKullanimi\obj\Debug\net8.0\ref\​​​​​​​GenericListVENesneKullanimi.dll
