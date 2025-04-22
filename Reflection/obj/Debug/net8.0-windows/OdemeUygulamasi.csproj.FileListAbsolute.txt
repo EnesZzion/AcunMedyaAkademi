@@ -1,0 +1,17 @@
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.Form1.resources
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.csproj.GenerateResource.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.AssemblyInfoInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.AssemblyInfo.cs
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.csproj.CoreCompileInputs.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.sourcelink.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\bin\Debug\net8.0-windows\OdemeUygulamasi.exe
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\bin\Debug\net8.0-windows\OdemeUygulamasi.deps.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\bin\Debug\net8.0-windows\OdemeUygulamasi.runtimeconfig.json
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\bin\Debug\net8.0-windows\OdemeUygulamasi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\bin\Debug\net8.0-windows\OdemeUygulamasi.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\refint\OdemeUygulamasi.dll
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.pdb
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\OdemeUygulamasi.genruntimeconfig.cache
+D:\AcunMedyaAkademiOdev\AcunMedyaAkademiOdev\OdemeUygulamasi\obj\Debug\net8.0-windows\ref\OdemeUygulamasi.dll
